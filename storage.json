@@ -1,3 +1,14 @@
 [
-
+  {
+    "id": 1,
+    "name": "rafi",
+    "classes": "11",
+    "present": "present"
+  },
+  {
+    "id": 2,
+    "name": "joko",
+    "classes": "12",
+    "present": "not"
+  }
 ]
